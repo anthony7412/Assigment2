@@ -1,0 +1,50 @@
+h1 {
+    color: rgb(110, 147, 55);
+    text-decoration: underline;
+    background-color: rgb(247, 243, 238);
+
+}
+
+h2 {
+    text-decoration: underline;
+    text-align: center;
+    color: rgb(110, 147, 55);
+    background-color: rgb(247, 243, 238);
+}
+
+.user-text {
+    font-style: italic;
+
+}
+
+#underline-text {
+    text-decoration: cadetblue;
+}
+
+h6 {
+    text-decoration: double;
+    text-decoration-color: black;
+}
+
+#underline-list {
+    text-decoration: double;
+}
+
+#link {
+    color: rgb(110, 147, 55);
+}
+
+.user1,
+.user2,
+.user3 {
+    background-color: rgb(255, 255, 67);
+    margin: 30px;
+}
+
+#footer-text {
+    margin: 30px;
+}
+
+#footer-text2 {
+    margin: 40px;
+}
